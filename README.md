@@ -30,8 +30,8 @@
 | 🌐 **Mundari Samaj** | Global Mundari language, culture & heritage platform — Mundari Bani script, grammar, lessons and a searchable dictionary | [mundarisamaj.pages.dev](https://mundarisamaj.pages.dev) · [Repo](https://github.com/catversstudio/mundari-samaj) |
 | 🔄 **QuickConvert** | ~100 free online tools — PDF, image & text tools and calculators, 100% private (everything runs in your browser) | [quickconvert-tools.pages.dev](https://quickconvert-tools.pages.dev) · [Repo](https://github.com/catversstudio/quickconvert) |
 | 💰 **My Expenses** | Privacy-focused Android expense tracker — budgets, categories, groceries, backup & export. Kotlin + Jetpack Compose, local-first, no account, no ads | [myexpensesapp.pages.dev](https://myexpensesapp.pages.dev) · [Repo](https://github.com/catversstudio/myexpensesapp) · [Telegram](https://t.me/myexpensesapp) |
-| 🎂 **Age Calculator** | Age calculator and precision date tools for Android | [agecalculator-app.pages.dev](https://agecalculator-app.pages.dev) · [Telegram](https://t.me/agecalculatorapp) |
-| 🎓 **Tuition Student Registry** | Android app for tuition teachers to manage student records (Kotlin + Compose + Firebase) — in development | [Repo](https://github.com/catversstudio/tuition-student-registry) |
+| 🎂 **Age Calculator** | Age calculator and precision date tools for Android | [agecalculator-app.pages.dev](https://agecalculator-app.pages.dev) · [Repo](https://github.com/catversstudio/age-calculator) · [Telegram](https://t.me/agecalculatorapp) |
+| 🎓 **Tuition Student Registry** | Android app for tuition teachers to manage student records (Kotlin + Compose + Firebase) — in development | [tuition-student-registry.pages.dev](https://tuition-student-registry.pages.dev) · [Repo](https://github.com/catversstudio/tuition-student-registry) |
 | 📄 **PDF Editor** | Online PDF editor | [Repo](https://github.com/catversstudio/pdf-editor) |
 | 📊 **Expense Insight** | Expense insights and analysis | [Repo](https://github.com/catversstudio/expense-insight) |
 
