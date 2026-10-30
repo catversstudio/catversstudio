@@ -3,7 +3,8 @@
 <h3 align="center">The official GitHub of Catvers Studio — building simple, useful tools, and preserving a language &amp; culture with technology</h3>
 
 <p align="center">
-  <a href="https://mundarisamaj.pages.dev"><img src="https://img.shields.io/badge/🌐_Mundari_Samaj-Website-173F35?style=for-the-badge" alt="Mundari Samaj Website"></a>
+  <a href="https://catversstudio.pages.dev"><img src="https://img.shields.io/badge/🌐_CatVers_Studio-Official_Website-173F35?style=for-the-badge" alt="CatVers Studio Official Website"></a>
+  <a href="https://mundarisamaj.pages.dev"><img src="https://img.shields.io/badge/🌿_Mundari_Samaj-Website-173F35?style=for-the-badge" alt="Mundari Samaj Website"></a>
   <a href="https://www.instagram.com/mundarisamaj"><img src="https://img.shields.io/badge/Instagram-@mundarisamaj-B65F43?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.threads.net/@mundaricommunity"><img src="https://img.shields.io/badge/Threads-@mundaricommunity-252A27?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"></a>
 </p>
@@ -21,15 +22,18 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Our Products
 
-| Project | What it is |
-|---|---|
-| 🌐 **[Mundari Samaj](https://mundarisamaj.pages.dev)** | A Catvers Studio initiative — global Mundari language, culture & heritage platform — Mundari Bani script, grammar, lessons and a searchable dictionary |
-| 💰 **[My Expenses](https://github.com/catversstudio/myexpensesapp)** | Privacy-focused Android expense tracker — budgets, categories, groceries, backup & export. Kotlin + Jetpack Compose, local-first, no account, no ads |
-| 🔄 **[QuickConvert](https://github.com/catversstudio/quickconvert)** | Quick and simple unit / value conversion tool |
-| 📄 **[PDF EDITOR](https://github.com/catversstudio/PDF-EDITOR)** | Online PDF editor |
-| 📊 **[Expense-Insight](https://github.com/catversstudio/Expense-Insight)** | Expense insights and analysis |
+| Project | What it is | Live / Repo |
+|---|---|---|
+| 🏢 **CatVers Studio Website** | Our official studio website | [catversstudio.pages.dev](https://catversstudio.pages.dev) · [Repo](https://github.com/catversstudio/catvers-studio-website) |
+| 🌐 **Mundari Samaj** | Global Mundari language, culture & heritage platform — Mundari Bani script, grammar, lessons and a searchable dictionary | [mundarisamaj.pages.dev](https://mundarisamaj.pages.dev) · [Repo](https://github.com/catversstudio/mundari-samaj) |
+| 🔄 **QuickConvert** | ~100 free online tools — PDF, image & text tools and calculators, 100% private (everything runs in your browser) | [quickconvert-tools.pages.dev](https://quickconvert-tools.pages.dev) · [Repo](https://github.com/catversstudio/quickconvert) |
+| 💰 **My Expenses** | Privacy-focused Android expense tracker — budgets, categories, groceries, backup & export. Kotlin + Jetpack Compose, local-first, no account, no ads | [myexpensesapp.pages.dev](https://myexpensesapp.pages.dev) · [Repo](https://github.com/catversstudio/myexpensesapp) · [Telegram](https://t.me/myexpensesapp) |
+| 🎂 **Age Calculator** | Age calculator and precision date tools for Android | [agecalculator-app.pages.dev](https://agecalculator-app.pages.dev) · [Telegram](https://t.me/agecalculatorapp) |
+| 🎓 **Tuition Student Registry** | Android app for tuition teachers to manage student records (Kotlin + Compose + Firebase) — in development | [Repo](https://github.com/catversstudio/tuition-student-registry) |
+| 📄 **PDF Editor** | Online PDF editor | [Repo](https://github.com/catversstudio/pdf-editor) |
+| 📊 **Expense Insight** | Expense insights and analysis | [Repo](https://github.com/catversstudio/expense-insight) |
 
 ---
 
@@ -69,8 +73,8 @@
 
 ## 📫 Connect With Us
 
-- 🌐 Website: [mundarisamaj.pages.dev](https://mundarisamaj.pages.dev)
-- 📧 Mundari Samaj: mundarisamaj@outlook.com
+- 🌐 Website: [catversstudio.pages.dev](https://catversstudio.pages.dev)
+- 🌿 Mundari Samaj: [mundarisamaj.pages.dev](https://mundarisamaj.pages.dev) · mundarisamaj@outlook.com
 - 📷 Instagram: [@mundarisamaj](https://www.instagram.com/mundarisamaj) · [@mundaricollaboration](https://www.instagram.com/mundaricollaboration)
 - 🧵 Threads: [@mundaricommunity](https://www.threads.net/@mundaricommunity)
 
