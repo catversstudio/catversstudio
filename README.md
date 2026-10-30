@@ -1,6 +1,6 @@
-<h1 align="center">Johar! 👋 I'm Catvers Studio</h1>
+<h1 align="center">Johar! 👋 We are Catvers Studio</h1>
 
-<h3 align="center">Building simple, useful tools — and preserving a language &amp; culture with technology</h3>
+<h3 align="center">The official GitHub of Catvers Studio — building simple, useful tools, and preserving a language &amp; culture with technology</h3>
 
 <p align="center">
   <a href="https://mundarisamaj.pages.dev"><img src="https://img.shields.io/badge/🌐_Mundari_Samaj-Website-173F35?style=for-the-badge" alt="Mundari Samaj Website"></a>
@@ -10,11 +10,12 @@
 
 ---
 
-## 🌿 About Me
+## 🌿 About Catvers Studio
 
-- 🏡 I build **small, practical web tools and Android apps** that solve everyday problems — free, simple and privacy-friendly.
-- 🗣️ I run **Mundari Samaj** — a community platform preserving and promoting the **Mundari language**, its own script **Mundari Bani**, and Munda culture, traditions and heritage.
-- 🎯 My focus: clean design, local-first apps, no unnecessary accounts, and technology that respects community and culture.
+- 🏢 **Catvers Studio** is a small studio that builds products from real experience and real needs — this GitHub is the studio's official home for everything it creates.
+- 🏡 We build **small, practical web tools and Android apps** that solve everyday problems — free, simple and privacy-friendly.
+- 🗣️ **Mundari Samaj is a Catvers Studio project** — born from a personal wish to preserve our own language. It is a community platform preserving and promoting the **Mundari language**, its own script **Mundari Bani**, and Munda culture, traditions and heritage.
+- 🎯 Our focus: clean design, local-first apps, no unnecessary accounts, and technology that respects community and culture.
 
 > **Our Language. Our Identity. Our Heritage.** — *Mundari Samaj*
 
@@ -24,7 +25,7 @@
 
 | Project | What it is |
 |---|---|
-| 🌐 **[Mundari Samaj](https://mundarisamaj.pages.dev)** | Global Mundari language, culture & heritage platform — Mundari Bani script, grammar, lessons and a searchable dictionary |
+| 🌐 **[Mundari Samaj](https://mundarisamaj.pages.dev)** | A Catvers Studio initiative — global Mundari language, culture & heritage platform — Mundari Bani script, grammar, lessons and a searchable dictionary |
 | 💰 **[My Expenses](https://github.com/catversstudio/myexpensesapp)** | Privacy-focused Android expense tracker — budgets, categories, groceries, backup & export. Kotlin + Jetpack Compose, local-first, no account, no ads |
 | 🔄 **[QuickConvert](https://github.com/catversstudio/quickconvert)** | Quick and simple unit / value conversion tool |
 | 📄 **[PDF EDITOR](https://github.com/catversstudio/PDF-EDITOR)** | Online PDF editor |
@@ -44,7 +45,7 @@
 
 ---
 
-## 🛠️ Tools I Work With
+## 🛠️ Tools We Work With
 
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
@@ -66,7 +67,7 @@
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect With Us
 
 - 🌐 Website: [mundarisamaj.pages.dev](https://mundarisamaj.pages.dev)
 - 📧 Mundari Samaj: mundarisamaj@outlook.com
