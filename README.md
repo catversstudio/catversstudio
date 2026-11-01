@@ -78,4 +78,4 @@
 - 📷 Instagram: [@mundarisamaj](https://www.instagram.com/mundarisamaj) · [@mundaricollaboration](https://www.instagram.com/mundaricollaboration)
 - 🧵 Threads: [@mundaricommunity](https://www.threads.net/@mundaricommunity)
 
-<p align="center"><em>Thanks for visiting — Johar! 🙏</em></p>
+<p align="center"><em>Thanks for visiting — Thank You ! 🙏</em></p>
