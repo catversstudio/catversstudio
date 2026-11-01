@@ -1,4 +1,4 @@
-<h1 align="center">Johar! 👋 We are Catvers Studio</h1>
+<h1 align="center"> Welcome ! 👋 We are Catvers Studio</h1>
 
 <h3 align="center">The official GitHub of Catvers Studio — building simple, useful tools, and preserving a language &amp; culture with technology</h3>
 
