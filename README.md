@@ -33,7 +33,7 @@
 | 🎂 **Age Calculator** | Age calculator and precision date tools for Android | [agecalculator-app.pages.dev](https://agecalculator-app.pages.dev) · [Repo](https://github.com/catversstudio/age-calculator) · [Telegram](https://t.me/agecalculatorapp) |
 | 🎓 **Tuition Student Registry** | Android app for tuition teachers to manage student records (Kotlin + Compose + Firebase) — in development | [tuition-student-registry.pages.dev](https://tuition-student-registry.pages.dev) · [Repo](https://github.com/catversstudio/tuition-student-registry) |
 | 📄 **PDF Editor** | Online PDF editor | [Repo](https://github.com/catversstudio/pdf-editor) |
-| 📊 **Expense Insight** | Expense insights and analysis | [Repo](https://github.com/catversstudio/expense-insight) |
+| 📊 **Expense Insight** | Expense insights and analysis | [Replit](https://replit.com/@asisasastudent/Expense-Insight) |
 
 ---
 
