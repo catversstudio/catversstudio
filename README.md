@@ -27,7 +27,7 @@
 | Project | What it is | Live / Repo |
 |---|---|---|
 | 🏢 **CatVers Studio Website** | Our official studio website | [catversstudio.pages.dev](https://catversstudio.pages.dev) · [Repo](https://github.com/catversstudio/catvers-studio-website) |
-| 🌐 **Mundari Samaj** | Global Mundari language, culture & heritage platform — Mundari Bani script, grammar, lessons and a searchable dictionary | [mundarisamaj.pages.dev](https://mundarisamaj.pages.dev) · [Repo](https://github.com/catversstudio/mundari-samaj) |
+| 🌐 **Mundari Samaj** | Global Mundari language, culture & heritage platform — Mundari Bani script, grammar, lessons and a searchable dictionary | [mundarisamaj.pages.dev](https://mundarisamaj.pages.dev) · [Repo](https://github.com/catversstudio/mundarisamaj) |
 | 🔄 **QuickConvert** | ~100 free online tools — PDF, image & text tools and calculators, 100% private (everything runs in your browser) | [quickconvert-tools.pages.dev](https://quickconvert-tools.pages.dev) · [Repo](https://github.com/catversstudio/quickconvert) |
 | 💰 **My Expenses** | Privacy-focused Android expense tracker — budgets, categories, groceries, backup & export. Kotlin + Jetpack Compose, local-first, no account, no ads | [myexpensesapp.pages.dev](https://myexpensesapp.pages.dev) · [Repo](https://github.com/catversstudio/myexpensesapp) · [Telegram](https://t.me/myexpensesapp) |
 | 🎂 **Age Calculator** | Age calculator and precision date tools for Android | [agecalculator-app.pages.dev](https://agecalculator-app.pages.dev) · [Repo](https://github.com/catversstudio/age-calculator) · [Telegram](https://t.me/agecalculatorapp) |
@@ -45,7 +45,7 @@
 - 🤝 Community collaboration with creators and cultural organisations
 
 **Follow the journey:**
-[Instagram @mundarisamaj](https://www.instagram.com/mundarisamaj) · [Instagram @mundaricollaboration](https://www.instagram.com/mundaricollaboration) · [Threads @mundaricommunity](https://www.threads.net/@mundaricommunity)
+[Instagram @mundarisamaj](https://www.instagram.com/mundarisamaj) · [Instagram @mundariarchive](https://www.instagram.com/mundariarchive) · [Threads @mundaricommunity](https://www.threads.net/@mundaricommunity)
 
 ---
 
@@ -75,7 +75,7 @@
 
 - 🌐 Website: [catversstudio.pages.dev](https://catversstudio.pages.dev)
 - 🌿 Mundari Samaj: [mundarisamaj.pages.dev](https://mundarisamaj.pages.dev) · mundarisamaj@outlook.com
-- 📷 Instagram: [@mundarisamaj](https://www.instagram.com/mundarisamaj) · [@mundaricollaboration](https://www.instagram.com/mundaricollaboration)
+- 📷 Instagram: [@mundarisamaj](https://www.instagram.com/mundarisamaj) · [@mundariarchive](https://www.instagram.com/mundariarchive)
 - 🧵 Threads: [@mundaricommunity](https://www.threads.net/@mundaricommunity)
 
 <p align="center"><em>Thanks for visiting — Thank You ! 🙏</em></p>
